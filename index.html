@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Meet Our Team</title>
 
-	<!--META TAGS-->
+<head>
+    <title>Meet Our Team</title>
+
+    <!--META TAGS-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
@@ -16,146 +17,111 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" crossorigin="anonymous"></script>
+
+    <!--     <script type="text/javascript" src="Team.js"></script> -->
+
     <link rel="stylesheet" type="text/css" href="Team.css">
+
+    <link rel="icon" href="assets/Logo/Lac.jpg" type="image/x-icon">
 
 </head>
 
 <body id="page-top">
 
     <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-secondary text-uppercase" id="mainNav">
-        <div class="container"><a class="navbar-brand bounce animated js-scroll-trigger" href="#page-top" style="font-size: 180%;">LAC-Team</a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"
+        <div class="container"><a class="navbar-brand bounce animated js-scroll-trigger" href="#page-top" style="font-size: 180%; text-shadow: 2px 2px 4px #000000;">LAC-Team</a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fa fa-bars"></i></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="nav navbar-nav ml-auto bounce animated">
-                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="destination site" style="margin-left: 3%">Home</a></li>
-                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"  href="#coreteam"> &nbsp; Core-Team</a></li>
-                   	<li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#Members" style="margin-left: 3%">Members</a></li>
-                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#footer" style="margin-left: 3%">Contact</a></li>
+                    <!--    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="destination site" style="margin-left: 3%">Home</a></li> -->
+                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#Parton" style="text-shadow: 2px 2px 4px #000000;">&nbsp;&nbsp;Our Parton</a></li>
+                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-4 rounded js-scroll-trigger" href="#Advisory" style="text-shadow: 2px 2px 4px #000000;">&nbsp;&nbsp;Advisory Board</a></li>
+                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#coreteam" style="text-shadow: 2px 2px 4px #000000;">&nbsp;&nbsp;Core-Team</a></li>
+                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#Members" style="text-shadow: 2px 2px 4px #000000;">&nbsp;&nbsp;Members</a></li>
+                    <li class="nav-item mx-0 mx-lg-1" role="presentation"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#footer" style="text-shadow: 2px 2px 4px #000000;">&nbsp;&nbsp;Contact us</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
     <header class="masthead bg-primary text-white text-center">
-        <div class="container" ><img class="img-fluid d-block mx-auto mb-5" src="logo.jpg">
-            <h1 id="about">MEET OUR TEAM</h1>
+        <div class="container"><img class="img-fluid mx-auto mb-5" src="assets/Logo/logo.jpg"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="img-fluid  mx-auto mb-5" src="assets/Logo/Lac.jpg" style="border-radius: 60%">
+            <h1 id="about" style="text-shadow: 2px 2px 4px #000000;">MEET OUR TEAM</h1>
             <hr class="star-light">
-            <h2  class=" mb-0" >LEGAL AID CLINIC, UNIVERSITY OF LUCKNOW</h2>
+            <h2 class=" mb-0" style="text-shadow: 2px 2px 4px #000000;">LEGAL AID CLINIC, UNIVERSITY OF LUCKNOW</h2>
         </div>
     </header> <br><br>
+
+    <!-- PARTON SECTION-->
+
+    <section id="Parton" class="Benefits">
+        <div class="container">
+            <h2 class="text-uppercase text-center text-secondary"><b>Our Parton</b></h2>
+            <hr class="star-dark mb-5">
+            <div class="row" id="parton">
+            </div>
+        </div>
+    </section> <br><br>
+
+    <!-- ADVISORY BOARD -->
+
+    <section id="Advisory" class="Benefits">
+        <div class="container">
+            <h2 class="text-uppercase text-center text-secondary"><b>Advisory Board</b></h2>
+            <hr class="star-dark mb-5">
+            <div class="row" id="A-board">
+            </div>
+        </div>
+    </section> <br><br>
+
+    <!-- CORE TEAM SECTION -->
 
     <section id="coreteam" class="Benefits">
         <div class="container">
             <h2 class="text-uppercase text-center text-secondary"><b>Core Team</b></h2>
             <hr class="star-dark mb-5">
-            <div class="row">
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-1">
-                    <div class="abc">
-                          <img class="img-fluid" src="gaurav.jpg" style="width: 90%;height: 40vh;padding-bottom: 15px; padding-top: 10px;"><br>
-                    </div>
-                    </a>
-                    <div class="designation">
-                          <p><span>Gaurav Verma</span></p>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-2">
-                        <div class="abc">
-                          <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-3">
-                        <div class="abc">
-                             <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-4">
-                         <div class="abc">
-                              <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
+            <div class="row" id="c-team">
             </div>
         </div>
-    </section>   <br><br>
+    </section> <br><br>
+
+    <!-- MEMBERS SECTION -->
 
     <section id="Members" class="Benefits">
         <div class="container">
             <h2 class="text-uppercase text-center text-secondary "><b>Members</b></h2>
             <hr class="star-dark mb-5">
-            <div class="row">
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-1">
-                    <div class="abc">
-                          <img class="img-fluid" src="#destination" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-2">
-                        <div class="abc">
-                          <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-3">
-                        <div class="abc">
-                             <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 col-lg-3 col-sm-4">
-                    <a class="d-block mx-auto portfolio-item" data-toggle="modal" href="#portfolio-modal-4">
-                         <div class="abc">
-                              <img class="img-fluid" src="" style="width: 100%;height: 40vh;padding-bottom: 15px; padding-top: 10px;">
-                        </div>
-                    </a>
-                </div>
-
+            <div class="row" id="mem-sec">
             </div>
         </div>
     </section> <br><br><br>
 
 
+    <!-- FOOTER -->
+
     <footer class="footer text-center" id="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 mb-5 mb-lg-0" >
-                	<h4 class="text-uppercase">Motto</h4>
-                	<hr class="star-dark1 mb-5">
-                    <p id="text">"Your Motto"</p>
+                <div class="col-md-4 mb-5 mb-lg-0">
+                    <h4 class="text-uppercase">Motto</h4>
+                    <hr class="star-dark1 mb-5">
+                    <p id="text"><b>"JUSTICE FOR ALL"</b></p>
                 </div>
                 <div class="col-md-4 mb-5 mb-lg-0">
-                    <h4 class="text-uppercase">SOCIAL CONNECT</h4>
+                    <h4 class="text-uppercase">SOCIAL WITH US</h4>
                     <hr class="star-dark1 mb-5">
                     <ul class="list-inline">
-                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="#"><i class="fa fa-github fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="#"><i class="fa fa-google-plus fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="#"><i class="fa fa-twitter fa-fw"></i></a></li>
-                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="#"><i class="fa fa-dribbble fa-fw"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="https://www.facebook.com/lulegalaidclinic" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="https://www.instagram.com/legalaidcliniclu/" target="_blank"><i class="fab fa-instagram "></i></a></li>
+                        <li class="list-inline-item"><a class="btn btn-outline-light btn-social text-center rounded-circle" role="button" href="#"><i class="fab fa-twitter " target="_blank"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <h4 class="text-uppercase mb-4">contact us</h4>
                     <hr class="star-dark1 mb-5">
-                    <p class="lead mb-0"><span>ABC Pvt. Ltd.<br>
-						xyz,Delhi,121XXX<br>+91 84XX-XX-XXXX<br>abc@gmail.com</p>
+                    <p class="lead mb-0"><span><i class="fas fa-map-marker-alt"></i>&nbsp;  Faculty of Law, University of<br>Lucknow,Jankipuram,<br> &emsp; &emsp;Lucknow,Uttar Pradesh, INDIA<br><i class="fas fa-phone-alt"></i> &emsp;<a href="tel: 7991200596" style="color: white;">7991200596</a><br>  <i class="far fa-envelope"></i>&emsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vidhiksewalu@gmail.com" target="_blank" rel="noopener noreferrer" style="color: white;">vidhiksewalu@gmail.com</a></p>
                 </div>
             </div>
         </div>
@@ -168,31 +134,46 @@
 
 
 
-     <div class="d-lg-none scroll-to-top position-fixed rounded"><a class="d-block js-scroll-trigger text-center text-white rounded" href="#page-top"><i class="fa fa-chevron-up"></i></a></div>
-    <div class="modal text-center" role="dialog" tabindex="-1" id="portfolio-modal-1">
-        <div class="modal-dialog modal-lg" role="document">
+     
+    <div class="modal text-4" role="dialog" tabindex="-1" id="portfolio-modal-1">
+        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
             <div class="modal-content">
-                <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+                <div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                </div>
                 <div class="modal-body">
                     <div class="container text-center">
                         <div class="row">
-                            <div class="col-lg-8 mx-auto">
-                                <h2 class="text-uppercase text-secondary mb-0">MEMBER</h2>
-                                <hr class="star-dark mb-5"><img class="img-fluid mb-5" src="gaurav.jpg" style="height: 20vh;border: 1px solid; width: 30%">
-                                <p class="mb-5" align="justify">Details of the member</b>.</p>
+                            <div class="col-lg-10 bsmod">
+                                <img src="gaurav.jpg">
+                                <h5>Gaurav Verma&nbsp;<em>(Member)</em></h5><br>
+                                <p align="justify">Skilled in C++ , C , Javascript || Also having good knowledge of Data Structure & Algorithm || Pursuing Bachelors of Technology (B.Tech) focused in Computer Science and Engineering from UIET-Kurukshetra University. </p><br>
+
+
+                                <a class="btn  btn-social  rounded-circle" role="button" href="#" target="_blank"><i class="fab fa-facebook icon-resize-small"></i></a>
+                                <a class="btn  btn-social  rounded-circle" role="button" href="#" target="_blank"><i class="fab fa-instagram "></i></a>
+                                <a class="btn  btn-social  rounded-circle" role="button" href="#" target="_blank"><i class="fab fa-twitter" ></i></a>
+                                <a class="btn  btn-social  rounded-circle" role="button" href="#" target="_blank"><i class="fab fa-linkedin" ></i></a>
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 
 
-	<!-- JS, Popper.js, and jQuery -->
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="Team.js"></script>
+
+        <!-- JS, Popper.js, and jQuery -->
+
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="Team.js"></script>
+
+        <!--FontAweasome-->
+        <script src="https://kit.fontawesome.com/496076a507.js" crossorigin="anonymous"></script>
+
+
+
 </body>
+
 </html>
