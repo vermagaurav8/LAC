@@ -398,40 +398,42 @@ a:-webkit-any-link {
 
 .bsmod img {
     float: left;
+    width: auto;
+    height: 35vh;
+    padding-top: 5%;
+    padding-bottom: 5%;
     border-radius: 50%;
-    width: 35%;
-    height: 100%;
-    padding-top: 15%;
-    padding-bottom: 15%;
-    padding-right: 4%;
+    margin-right: 3%;
 }
 
 .bsmod p {
     font-family: Montserrat;
 }
 
-.bsmod h5 {
+.bsmod h4 {
     font-family: Montderrat;
     font-weight: 80%;
+    text-align: center;
 }
 
 .bsmod a {
     border: 0.5px solid black;
-    border-radius: 50%;
     color: #000000;
     size: 30%;
+    text-align: center;
 }
 
 .bsmod a:hover {
     border: 1px solid black;
 }
 
-.bsmod li {
-    width: 10%;
-    height: 2vh;
-}
-
 .bsmod i {
     color: #000000;
-    size: 20%;
+}
+
+@media screen and (max-width:558px;
+) {
+    .bsmod img {
+        display: block;
+    }
 }
