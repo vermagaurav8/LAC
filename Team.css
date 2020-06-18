@@ -42,7 +42,7 @@
 /*-- HEADER--*/
 
 header.masthead {
-    padding-top: calc(5rem + 50px);
+    padding-top: calc(6rem + 50px);
     padding-bottom: 6rem;
 }
 
@@ -69,13 +69,6 @@ main,
 nav,
 section {
     display: block;
-}
-
-header img {
-    width: 18vw;
-    height: 10vh;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
 }
 
 hr.star-light {
@@ -137,6 +130,16 @@ a:hover {
 
 .text-secondary {
     color: #2c3e50!important;
+}
+
+#mem-sec p {
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    font-size: 120%;
+    font-family: Montserrat;
+    color: black;
 }
 
 .text-uppercase {
@@ -397,10 +400,9 @@ a:-webkit-any-link {
 /* FOR Bootstrap modal */
 
 .bsmod img {
-    float: left;
     width: auto;
     height: 35vh;
-    padding-top: 5%;
+    padding-top: 4%;
     padding-bottom: 5%;
     border-radius: 50%;
     margin-right: 3%;
@@ -431,9 +433,23 @@ a:-webkit-any-link {
     color: #000000;
 }
 
-@media screen and (max-width:558px;
-) {
-    .bsmod img {
-        display: block;
+header img {
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+
+@media screen and (max-width: 1700px) {
+    header img {
+        width: 35vh;
+        height: 10vh;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    header img {
+        width: 22vh;
+        height: 10vh;
+        border-radius: 50%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
     }
 }

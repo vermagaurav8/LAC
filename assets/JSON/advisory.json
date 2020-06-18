@@ -1,24 +1,29 @@
 [{
+        "portfolioId": "portfolio-modal-4",
         "Name": "First Last",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-5",
         "Name": "First Last",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-6",
         "Name": "First Last",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-7",
         "Name": "First Last",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-8",
         "Name": "First Last",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     }

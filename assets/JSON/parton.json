@@ -1,14 +1,17 @@
 [{
+        "portfolioId": "portfolio-modal-1",
         "Name": "Vice Chancellor",
         "Image": "assets/Team/Partonsection/VC.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-2",
         "Name": "Dean CP Singh",
         "Image": "assets/Team/Partonsection/cp.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-3",
         "Name": "Dr. Anuraag Kumar Srivastava",
         "Image": "assets/Team/Partonsection/Anurag.png"
     }

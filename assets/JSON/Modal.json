@@ -1,0 +1,804 @@
+[{
+        "portfolioId": "portfolio-modal-1",
+        "Name": "Vice Chancellor",
+        "Designation": "Our Parton",
+        "Description": " About VC ",
+        "Image": "assets/Team/Partonsection/VC.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-2",
+        "Name": "Dean C.P Singh",
+        "Designation": "Head Deptt. of law",
+        "Description": "Professor Chandra Prakash Singh is the Head of the Department of Law. He is dynamic law teacher and the Dean of Faculty of Law,Lucknow University.He hasp ublished many articles till now and has specialisation in Contract,LandLaws and Business Law.",
+        "Image": "assets/Team/Partonsection/cp.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-3",
+        "Name": "Dr. Anuraag Kumar Srivastava",
+        "Designation": "Chairperson of LULAC",
+        "Description": "Dr.Anuraag Kumar Srivastava is the chairperson of Legal Aid Clinic. Moret han 10 numbers of India and International papers have been published on his name.He is a seasoned professional with experience spanning of 14 years in teaching and researching. Unaccountable numbers of workshops and Paper presentations have been attended by him. Corporate Law,Labour and Industrial Law and Taxation Laws are his main interest areas in which he has conducted several workshops and guestlectures.",
+        "Image": "assets/Team/Partonsection/Anurag.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-4",
+        "Name": "First Last",
+        "Designation": "Advisory Board",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-5",
+        "Name": "First Last",
+        "Designation": "Advisory Board",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-6",
+        "Name": "First Last",
+        "Designation": "Advisory Board",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-7",
+        "Name": "First Last",
+        "Designation": "Advisory Board",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-8",
+        "Name": "First Last",
+        "Designation": "Advisory Board",
+        "Description": " Advisory board  member details",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": "#",
+        "InstagramUrl": "#",
+        "FacebookUrl": "#",
+        "TwitterUrl": "#"
+    },
+
+    {
+        "portfolioId": "portfolio-modal-9",
+        "Name": "Aakash Sharma",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/akash2ndyear.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-10",
+        "Name": "Akhileshwar Singh",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-11",
+        "Name": "Aman Chaudhary",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-12",
+        "Name": "Anadi Tewari",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/anaditewari.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-13",
+        "Name": "Ankit Singh",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Ankit.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-14",
+        "Name": "Anupam",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Anupam .jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-15",
+        "Name": "Devaang Dev",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-16",
+        "Name": "Farhan Ansari",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-17",
+        "Name": "Harsh Mishra",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/harshmishra.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-18",
+        "Name": "Kavita Bhushan",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Kavita Bhusan.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-19",
+        "Name": "Kuldeep Singh",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-20",
+        "Name": "Manish Tiwari",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Manish Tiwari.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-21",
+        "Name": "Neha",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-22",
+        "Name": "Nishita Singh",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Nishita Singh.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-23",
+        "Name": "Ritam Tripathi",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Ritam Tripathi.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-24",
+        "Name": "Rohit Keshari",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/Rohit Kesari.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-25",
+        "Name": "Samridhi Anand",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-26",
+        "Name": "Shikhar Kumar",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/Coreteam/shikhar kumar.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-27",
+        "Name": "Shubhangi Singh",
+        "Designation": "Core-Team",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-28",
+        "Name": "Sonali Singh",
+        "Designation": "Core-Team",
+        "Description": "About Sonali",
+        "Image": "assets/Team/Coreteam/Sonali Singh.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-29",
+        "Name": "Akshat Sharma",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/AkshatSharma.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-30",
+        "Name": "Anurag Srivastava",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-31",
+        "Name": "Ayushi Gupta",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-32",
+        "Name": "Dharam Raj Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-33",
+        "Name": "Himashri Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-34",
+        "Name": "Huzaifa shaikh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-35",
+        "Name": "Kanchan Shakya",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Kanchan shakya.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-36",
+        "Name": "Kashma Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-37",
+        "Name": "Kush Kumar",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Kush Kharwar.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-38",
+        "Name": "Riya Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-39",
+        "Name": "Saurabh Singh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-40",
+        "Name": "Somya Singh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-41",
+        "Name": "Vaibhav Jaiswal",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-42",
+        "Name": "Vaibhav Raj Kashyap",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-43",
+        "Name": "Vinay Pandey",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-44",
+        "Name": "Amrita Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-45",
+        "Name": "Kshma Bharti",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-46",
+        "Name": "Puneet Deshwal",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/puneetdeshwal.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-47",
+        "Name": "Abhishek Kumar",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-48",
+        "Name": "Abhishek Nag",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Abhishek Nag.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-49",
+        "Name": "Akshay Gupta",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Akshay Gupta.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-50",
+        "Name": "Anurag Patel",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Anurag Patel.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-51",
+        "Name": "Archita pandy",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-52",
+        "Name": "Ayush Pandey",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Ayush Pandey.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-53",
+        "Name": "Farahan Ansari",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-54",
+        "Name": "Harsh Kumar Pandey",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Harshkumarpandey.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-55",
+        "Name": "Himanshi",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Himanshi6semester.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-56",
+        "Name": "Kuldeep Singh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-57",
+        "Name": "Kumari Ashwarya",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-58",
+        "Name": "Kunwar Shashank",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/shashank.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-59",
+        "Name": "Pranav Pandey",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/Members/Pranav Pandey.jpg",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-60",
+        "Name": "Prerna Pandey",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-61",
+        "Name": "Saurabh Singh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-62",
+        "Name": "Shailendra Kumar Mishra",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-63",
+        "Name": "Shikhar Mani Yadav",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-64",
+        "Name": "Shreyansh Tiwari",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-65",
+        "Name": "Shrishti Bajpai",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-66",
+        "Name": "Supriya Chaudhary",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    },
+
+    {
+        "portfolioId": "portfolio-modal-67",
+        "Name": "Yuvraj Singh",
+        "Designation": "Member",
+        "Description": "About",
+        "Image": "assets/Team/AdvisoryBoard/dummy.png",
+        "LindinUrl": " ",
+        "InstagramUrl": " ",
+        "FacebookUrl": " ",
+        "TwitterUrl": " "
+    }
+]

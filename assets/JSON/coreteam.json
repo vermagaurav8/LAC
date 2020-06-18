@@ -1,99 +1,119 @@
 [{
+        "portfolioId": "portfolio-modal-9",
         "Name": "Aakash Sharma",
         "Image": "assets/Team/Coreteam/akash2ndyear.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-10",
         "Name": "Akhileshwar Singh",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-11",
         "Name": "Aman Chaudhary",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-12",
         "Name": "Anadi Tewari",
         "Image": "assets/Team/Coreteam/anaditewari.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-13",
         "Name": "Ankit Singh",
         "Image": "assets/Team/Coreteam/Ankit.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-14",
         "Name": "Anupam",
         "Image": "assets/Team/Coreteam/Anupam .jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-15",
         "Name": "Devaang Dev",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-16",
         "Name": "Farhan Ansari",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-17",
         "Name": "Harsh Mishra",
         "Image": "assets/Team/Coreteam/harshmishra.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-18",
         "Name": "Kavita Bhushan",
         "Image": "assets/Team/Coreteam/Kavita Bhusan.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-19",
         "Name": "Kuldeep Singh",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-20",
         "Name": "Manish Tiwari",
         "Image": "assets/Team/Coreteam/Manish Tiwari.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-21",
         "Name": "Neha",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-22",
         "Name": "Nishita Singh",
         "Image": "assets/Team/Coreteam/Nishita Singh.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-23",
         "Name": "Ritam Tripathi",
         "Image": "assets/Team/Coreteam/Ritam Tripathi.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-24",
         "Name": "Rohit Keshari",
         "Image": "assets/Team/Coreteam/Rohit Kesari.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-25",
         "Name": "Samridhi Anand",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-26",
         "Name": "Shikhar Kumar",
         "Image": "assets/Team/Coreteam/shikhar kumar.jpg"
     },
 
     {
+        "portfolioId": "portfolio-modal-27",
         "Name": "Shubhangi Singh",
         "Image": "assets/Team/AdvisoryBoard/dummy.png"
     },
 
     {
+        "portfolioId": "portfolio-modal-28",
         "Name": "Sonali Singh",
         "Image": "assets/Team/Coreteam/Sonali Singh.jpg"
     }
