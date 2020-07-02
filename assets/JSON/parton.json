@@ -1,7 +1,7 @@
 [{
         "portfolioId": "portfolio-modal-1",
         "Name": "Vice Chancellor",
-        "Image": "assets/Team/Partonsection/VC.png"
+        "Image": "assets/Team/Partonsection/Anurag.png"
     },
 
     {
@@ -13,6 +13,6 @@
     {
         "portfolioId": "portfolio-modal-3",
         "Name": "Dr. Anuraag Kumar Srivastava",
-        "Image": "assets/Team/Partonsection/Anurag.png"
+        "Image": " assets/Team/Partonsection/VC.png"
     }
 ]
