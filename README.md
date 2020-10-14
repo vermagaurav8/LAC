@@ -1,3 +1,3 @@
 # Legal Aid Clinic
 
-Some we pages made while Web Dev Intern
+Some web pages made while Web Dev Intern
